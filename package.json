@@ -1,0 +1,25 @@
+{
+  "name": "mesto",
+  "version": "0.0.1",
+  "description": "**Проект \"Место\"",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack-dev-server --mode development --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4lukyanov/mesto.git"
+  },
+  "author": "Lukyanov Anton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4lukyanov/mesto/issues"
+  },
+  "homepage": "https://github.com/4lukyanov/mesto#readme",
+  "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
