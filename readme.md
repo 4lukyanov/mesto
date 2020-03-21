@@ -1,2 +1,2 @@
 ## Проект "Место"
-https://4lukyanov.github.io/
+https://4lukyanov.github.io/mesto/
