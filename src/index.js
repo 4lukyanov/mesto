@@ -1,4 +1,3 @@
-//готово
 import "./pages/index.css";
 import {Api} from './js/Api.js';
 import {Card} from './js/Card.js';
